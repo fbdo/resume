@@ -45,14 +45,11 @@ Dec 2017 - Jan 2019
 
 * Solution architect of the autonomous driving car project.
 * Responsible for steering multiple projects and departments to achieve common goals and deadlines.
-* Interface and communication boundaries definitions
-* Definition of non-functional requirements
- 
-* Modeling and best practices for a high available architecture in the cloud.
-* Technically coaching teams on cloud technologies and infrastructure automation to adopt a cloud native
-architecture.
-* Ramping up/Coaching new internal teams, helping them, POs and stakeholders on adopting agile
-methodologies.
+* Interface and communication boundaries definitions, designing security in the architecture, for data at rest and in transit.
+* Definition of non-functional requirements on a realtime, IoT-like project, collecting data from vehicle sensors, feeding a data warehouse for posterior analisis and at the same time the fleet back with critical data like traffic jams, slippery roads, traffic signs or car accidents, using for such MQTT, Kafka, Redis cache and Kinesis queues. System designed to process Terabytes of data per month, many tens of thousands of messages per second.
+* Modeling and best practices for a high available architecture in the cloud, using Multi Availability Zones and Multi Regions setup, with a active-active failover based on health metrics.
+* Technically coaching teams on cloud technologies and infrastructure automation to adopt a cloud native architecture, using Terraform and Packer in a CICD pipeline for a fully automated deployment.
+* Ramping up/Coaching new internal teams, helping them, POs and stakeholders on adopting agile methodologies.
 * Requirements/User stories definitions for external contracts.
 
 
@@ -61,17 +58,12 @@ Wirecard AG +
 Munich, DE +
 Mar 2016 - Dec 2017
 
-* Responsible to design solutions and implement them, together with the team.
-* Focus on agility and increased business value.
-* Responsible to automate end-to-end business processes and software processes, applying Continuous
-Integration and Delivery, Infrastructure as Code, automating whetever possible to speedup the time to
-market.
-* Slicing a big legacy monolith in smaller microservices, while keeping backward compatility on a 24/7
-system.
-* Participation on many internal and external events as a presenter, demonstrating technologies for other
-departments and divisions, or as a hiring strategy.
-* Active member of the internal community, implementing Coding Dojo sessions, where in a safe envi-
-ronment developers could try, practice and learn new skills.
+* Responsible to design solutions and implement them, together with the team, using Java and the Spring Framework, and some others JVM based languages like Groovy and Scala.
+* Focus on agility and increased business value, with a strong emphasis in test automation.
+* Responsible to automate end-to-end business processes and software processes, applying Continuous Integration and Delivery, Infrastructure as Code, automating whetever possible to speedup the time to market while avoiding errors, using tools as Ansible and Puppet.
+* Slicing a big legacy monolith in smaller microservices, while keeping backward compatility on a 24/7 system, using techniques like feature toggles, modularization and the strangler pattern.
+* Participation on many internal and external events as a presenter, demonstrating technologies for other departments and divisions, or as a hiring strategy.
+* Active member of the internal community, implementing Coding Dojo sessions, where in a safe environment developers could try, practice and learn new skills.
 * Active participation on the hiring process, defining processes and applying them.
 
 ### Scrum Master & Software Engineer
