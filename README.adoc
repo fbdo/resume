@@ -190,7 +190,7 @@ Databases:: Oracle, MySQL, PostgreSQL, Microsoft SQL Server
 
 Infrastructure Automation:: Puppet, Ansible, Terraform, CloudFormation
 
-Cloud Computing & Big Data:: Hadoop, Sparks, Google Computing Engine, Amazon Web Services
+Cloud Computing & Big Data:: Hadoop, Sparks, Google Cloud Platform, Amazon Web Services
 
 a|+Awards+
 a|NetBeans Innovators Grant 2008
