@@ -166,7 +166,6 @@ a|* AWS Certified Solution Architect
 ** Functional Program Design in Scala
 ** Functional Programming Principles in Scala
 ** Introduction to Recommendation Systems
-** 
 
 * University of Campinas
 ** Introduction to Natural Computing
