@@ -34,7 +34,7 @@ a|Nowadays my main responsibilities in a software project are:
 * Communication & Alignment
 * Project Plan & Roadmap
 * Risk Assessment & Management
-* Multi cloud modeling, automation & deployment
+* Multi cloud modeling, automation & deployment for Amazon Web Services, Google Cloud Platform or Microsoft Azure providers
 
 
 a|+Experience+
