@@ -157,11 +157,16 @@ a|* AWS Certified Solution Architect
 ** Google Study Practice Test - Cloud SQL Study
 
 * Coursera
+** Google Cloud Platform Fundamentals: Core Infrastructure
+** Essential Cloud Infrastructure: Foundation
+** Elastic Cloud Infrastructure: Scaling and Automation
+** Elastic Cloud Infrastructure: Containers and Services
 ** Big Data Analysis with Scala and Spark
 ** Parallel Programming
 ** Functional Program Design in Scala
 ** Functional Programming Principles in Scala
 ** Introduction to Recommendation Systems
+** 
 
 * University of Campinas
 ** Introduction to Natural Computing
@@ -182,7 +187,7 @@ Databases:: Oracle, MySQL, PostgreSQL, Microsoft SQL Server
 
 Infrastructure Automation:: Puppet, Ansible, Terraform, CloudFormation
 
-Cloud Computing & Big Data:: Hadoop, Sparks, Google Cloud Platform, Amazon Web Services
+Cloud Computing & Big Data:: Hadoop, Sparks, Google Cloud Platform, Amazon Web Services, Microsoft Azure
 
 a|+Awards+
 a|NetBeans Innovators Grant 2008
