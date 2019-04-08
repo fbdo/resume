@@ -1,17 +1,25 @@
 = Fabio Oliveira
 
 :showtitle!:
-:address: 123 Main Street • Town • EH798FV • Country
-:phone: Tel. +44 (0)997 777 777
-:email: name@mail.com
+:company: Palacios Digital Marketing 
+:address: Steinsdorfstraße 2  • 80538 • München • Germany
+:phone: +49 174 304 11 68
+:email: f.oliveira@palacios-online.de
 :linkedin: http://br.linkedin.com/in/fabiobragaoliveira
+:xing: https://www.xing.com/profile/Fabio_Oliveira9
 
-//_{address}_ +
-//_{phone} • {email}_ +
-_{linkedin}_
+_{company}_ +
+_{address}_ +
 
 [cols=".<20,.<80",frame=none,grid=none,width=100%,stripes=none]
 |===
+a|+Contacts+
+a|
+Mobile/WhatsApp: {phone} +
+Email: {email} +
+Linkedin: {linkedin} +
+XING: {xing} +
+
 a|+Objectives+
 a|To develop mission critical applications as a Cloud/Solution/Software Architect or Technical Leader,
 helping the team to automate, setup, design, implement, test and deploy projects, using the best
