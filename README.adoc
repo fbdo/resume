@@ -15,7 +15,7 @@ _{address}_ +
 |===
 a|+Contacts+
 a|
-Mobile/WhatsApp: {phone} +
+Mobile: {phone} +
 Email: {email} +
 Linkedin: {linkedin} +
 XING: {xing} +
