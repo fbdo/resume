@@ -46,7 +46,18 @@ a|Nowadays my main responsibilities in a software project are:
 
 
 a|+Experience+
-a|### Solution Architect
+a|### IT Consulting/Solution Architect
+Palacios Digital Marketing +
+Munich, DE +
+Feb 2019 - current
+
+* IT Consulting/Solution Architect on a contract basis, some projects:
+** Siemens: An ETL job implemented using Pentaho Data Integration (Kettle) and visualization using Tableau Desktop, a PoC for a larger deployment worldwide.
+** Design Offices: Setup and management of the corporate website upgrade project using the Scrum methodology. Setup and Automation of a disaster recovery strategy using Google Cloud technologies and a CICD pipeline. Setup of the support process, monitoring and alert mechanisms to improve website availability.
+** AutoScout24: Development of Frontend/Backend application using technologies as ReactJS, Typescript, Scala and AWS cloud. Development of data management process moving data from the data lake to Salesforce Marketing Cloud following GDPR directives.
+
+
+### Solution Architect
 BMW AG +
 Munich, DE +
 Dec 2017 - Jan 2019
