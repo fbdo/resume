@@ -180,7 +180,6 @@ image:https://api.accredible.com/v1/frontend/credential_website_embed_image/cert
 
 ### Machine Learning
 * Introduction to Recommendation Systems
->>>>>>> f02639d42a0993f6f99e324a30ea1e7ba76f9146
 
 ### University of Campinas
 * Introduction to Natural Computing
