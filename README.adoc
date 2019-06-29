@@ -152,48 +152,24 @@ Jan 1998 - Jun 2005
 * Elective disciplines in Administration, Logic, Software Engineering and Artificial Intelligence
 * Activities and groups: IME Junior Enterprise, Artificial Intelligence Group.
 
-
-<<<<<<< HEAD
-a|+Courses and Certificates+
-a|* AWS Certified Solution Architect
-(in progress)
-
-* Google Cloud Platform
-** Google Cloud Certified Professional Cloud Architect
-image:https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/13274845[link="https://www.credential.net/rhu9np9o"]
-** Google Study Practice Test - App Engine Java
-** App Engine Quickstart
-** Google Study Practice Test - App Engine Python
-** Google Study Practice Test - Big Query Study
-** Google Study Practice Test - Cloud SQL Study
-
-* Coursera
-** Architecting with Google Cloud Platform Specialization
-** Essential Cloud Infrastructure: Core Services
-** Reliable Cloud Infrastructure: Design and Process
-** Elastic Cloud Instrastructure: Containers and Services
-** Elastic Cloud Infrastructure: Scaling and Automation
-** Essential Cloud Infrastructure: Foundation
-** Google Cloud Platform Fundamentals: Core Infrastructure
-** Big Data Analysis with Scala and Spark
-** Parallel Programming
-** Functional Program Design in Scala
-** Functional Programming Principles in Scala
-** Introduction to Recommendation Systems
-=======
 a|+Courses & Certificates+
 a|### Amazon Web Services
 * AWS Certified Solution Architect - Associate (in progress)
 
 ### Google Cloud Platform
+* Google Cloud Certified Professional Cloud Architect
+image:https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/13274845[link="https://www.credential.net/rhu9np9o"]
 * Google Study Practice Test - App Engine Java
 * App Engine Quickstart
 * Google Study Practice Test - App Engine Python
 * Google Study Practice Test - Big Query Study
 * Google Study Practice Test - Cloud SQL Study
-* Google Cloud Platform Fundamentals: Core Infrastructure
-* Essential Cloud Infrastructure: Foundation
+* Architecting with Google Cloud Platform Specialization
+* Essential Cloud Infrastructure: Core Services
+* Reliable Cloud Infrastructure: Design and Process
 * Elastic Cloud Infrastructure: Scaling and Automation
+* Essential Cloud Infrastructure: Foundation
+* Google Cloud Platform Fundamentals: Core Infrastructure
 * Elastic Cloud Infrastructure: Containers and Services
 
 ### Scala
