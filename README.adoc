@@ -1,17 +1,25 @@
 = Fabio Oliveira
 
 :showtitle!:
-:address: 123 Main Street • Town • EH798FV • Country
-:phone: Tel. +44 (0)997 777 777
-:email: name@mail.com
+:company: Palacios Digital Marketing 
+:address: Steinsdorfstraße 2  • 80538 • München • Germany
+:phone: +49 174 304 11 68
+:email: f.oliveira@palacios-online.de
 :linkedin: http://br.linkedin.com/in/fabiobragaoliveira
+:xing: https://www.xing.com/profile/Fabio_Oliveira9
 
-//_{address}_ +
-//_{phone} • {email}_ +
-_{linkedin}_
+_{company}_ +
+_{address}_ +
 
 [cols=".<20,.<80",frame=none,grid=none,width=100%,stripes=none]
 |===
+a|+Contacts+
+a|
+Mobile: {phone} +
+Email: {email} +
+Linkedin: {linkedin} +
+XING: {xing} +
+
 a|+Objectives+
 a|To develop mission critical applications as a Cloud/Solution/Software Architect or Technical Leader,
 helping the team to automate, setup, design, implement, test and deploy projects, using the best
@@ -34,7 +42,7 @@ a|Nowadays my main responsibilities in a software project are:
 * Communication & Alignment
 * Project Plan & Roadmap
 * Risk Assessment & Management
-* Multi cloud modeling, automation & deployment
+* Multi cloud modeling, automation & deployment for Amazon Web Services, Google Cloud Platform or Microsoft Azure providers
 
 
 a|+Experience+
@@ -45,14 +53,11 @@ Dec 2017 - Jan 2019
 
 * Solution architect of the autonomous driving car project.
 * Responsible for steering multiple projects and departments to achieve common goals and deadlines.
-* Interface and communication boundaries definitions
-* Definition of non-functional requirements
- 
-* Modeling and best practices for a high available architecture in the cloud.
-* Technically coaching teams on cloud technologies and infrastructure automation to adopt a cloud native
-architecture.
-* Ramping up/Coaching new internal teams, helping them, POs and stakeholders on adopting agile
-methodologies.
+* Interface and communication boundaries definitions, designing security in the architecture, for data at rest and in transit.
+* Definition of non-functional requirements on a realtime, IoT-like project, collecting data from vehicle sensors, feeding a data warehouse for posterior analisis and at the same time the fleet back with critical data like traffic jams, slippery roads, traffic signs or car accidents, using for such MQTT, Kafka, Redis cache and Kinesis queues. System designed to process Terabytes of data per month, many tens of thousands of messages per second.
+* Modeling and best practices for a high available architecture in the cloud, using Multi Availability Zones and Multi Regions setup, with a active-active failover based on health metrics.
+* Technically coaching teams on cloud technologies and infrastructure automation to adopt a cloud native architecture, using Terraform and Packer in a CICD pipeline for a fully automated deployment.
+* Ramping up/Coaching new internal teams, helping them, POs and stakeholders on adopting agile methodologies.
 * Requirements/User stories definitions for external contracts.
 
 
@@ -61,17 +66,12 @@ Wirecard AG +
 Munich, DE +
 Mar 2016 - Dec 2017
 
-* Responsible to design solutions and implement them, together with the team.
-* Focus on agility and increased business value.
-* Responsible to automate end-to-end business processes and software processes, applying Continuous
-Integration and Delivery, Infrastructure as Code, automating whetever possible to speedup the time to
-market.
-* Slicing a big legacy monolith in smaller microservices, while keeping backward compatility on a 24/7
-system.
-* Participation on many internal and external events as a presenter, demonstrating technologies for other
-departments and divisions, or as a hiring strategy.
-* Active member of the internal community, implementing Coding Dojo sessions, where in a safe envi-
-ronment developers could try, practice and learn new skills.
+* Responsible to design solutions and implement them, together with the team, using Java and the Spring Framework, and some others JVM based languages like Groovy and Scala.
+* Focus on agility and increased business value, with a strong emphasis in test automation.
+* Responsible to automate end-to-end business processes and software processes, applying Continuous Integration and Delivery, Infrastructure as Code, automating whetever possible to speedup the time to market while avoiding errors, using tools as Ansible and Puppet.
+* Slicing a big legacy monolith in smaller microservices, while keeping backward compatility on a 24/7 system, using techniques like feature toggles, modularization and the strangler pattern.
+* Participation on many internal and external events as a presenter, demonstrating technologies for other departments and divisions, or as a hiring strategy.
+* Active member of the internal community, implementing Coding Dojo sessions, where in a safe environment developers could try, practice and learn new skills.
 * Active participation on the hiring process, defining processes and applying them.
 
 ### Scrum Master & Software Engineer
@@ -153,6 +153,7 @@ Jan 1998 - Jun 2005
 * Activities and groups: IME Junior Enterprise, Artificial Intelligence Group.
 
 
+<<<<<<< HEAD
 a|+Courses and Certificates+
 a|* AWS Certified Solution Architect
 (in progress)
@@ -179,10 +180,35 @@ image:https://api.accredible.com/v1/frontend/credential_website_embed_image/cert
 ** Functional Program Design in Scala
 ** Functional Programming Principles in Scala
 ** Introduction to Recommendation Systems
+=======
+a|+Courses & Certificates+
+a|### Amazon Web Services
+* AWS Certified Solution Architect - Associate (in progress)
 
-* University of Campinas
-** Introduction to Natural Computing
-** Bio-Inspired Algorithms
+### Google Cloud Platform
+* Google Study Practice Test - App Engine Java
+* App Engine Quickstart
+* Google Study Practice Test - App Engine Python
+* Google Study Practice Test - Big Query Study
+* Google Study Practice Test - Cloud SQL Study
+* Google Cloud Platform Fundamentals: Core Infrastructure
+* Essential Cloud Infrastructure: Foundation
+* Elastic Cloud Infrastructure: Scaling and Automation
+* Elastic Cloud Infrastructure: Containers and Services
+
+### Scala
+* Big Data Analysis with Scala and Spark
+* Parallel Programming
+* Functional Program Design in Scala
+* Functional Programming Principles in Scala
+
+### Machine Learning
+* Introduction to Recommendation Systems
+>>>>>>> f02639d42a0993f6f99e324a30ea1e7ba76f9146
+
+### University of Campinas
+* Introduction to Natural Computing
+* Bio-Inspired Algorithms
 
 a|+Technical skills+
 a|Click in the following button to see my stack in StackShare: image:https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat[link="https://stackshare.io/fbdo/mytechstack"]
@@ -199,7 +225,7 @@ Databases:: Oracle, MySQL, PostgreSQL, Microsoft SQL Server
 
 Infrastructure Automation:: Puppet, Ansible, Terraform, CloudFormation
 
-Cloud Computing & Big Data:: Hadoop, Sparks, Google Computing Engine, Amazon Web Services
+Cloud Computing & Big Data:: Hadoop, Sparks, Google Cloud Platform, Amazon Web Services, Microsoft Azure
 
 a|+Awards+
 a|NetBeans Innovators Grant 2008
