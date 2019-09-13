@@ -1,10 +1,10 @@
 = Fabio Oliveira
 
 :showtitle!:
-:company: Palacios Digital Marketing 
+:company: Digital Loop GmbH
 :address: Steinsdorfstraße 2  • 80538 • München • Germany
 :phone: +49 174 304 11 68
-:email: f.oliveira@palacios-online.de
+:email: f.oliveira@digital-loop.com
 :linkedin: http://br.linkedin.com/in/fabiobragaoliveira
 :xing: https://www.xing.com/profile/Fabio_Oliveira9
 
@@ -51,7 +51,7 @@ Palacios Digital Marketing +
 Munich, DE +
 Feb 2019 - current
 
-* IT Consulting/Solution Architect on a contract basis, some projects:
+* IT Consulting/Solution Architect on a contract basis, some past projects:
 ** Siemens: An ETL job implemented using Pentaho Data Integration (Kettle) and visualization using Tableau Desktop, a PoC for a larger deployment worldwide.
 ** Design Offices: Setup and management of the corporate website upgrade project using the Scrum methodology. Setup and Automation of a disaster recovery strategy using Google Cloud technologies and a CICD pipeline. Setup of the support process, monitoring and alert mechanisms to improve website availability.
 ** AutoScout24: Development of Frontend/Backend application using technologies as ReactJS, Typescript, Scala, Apache Kafka and AWS cloud. Development of data pipeline processes moving data from the AWS data lake and on-premisse databases to Salesforce Marketing Cloud following GDPR directives.
@@ -170,11 +170,6 @@ a|### Amazon Web Services
 ### Google Cloud Platform
 * Google Cloud Certified Professional Cloud Architect
 image:https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/13274845[link="https://www.credential.net/rhu9np9o"]
-* Google Study Practice Test - App Engine Java
-* App Engine Quickstart
-* Google Study Practice Test - App Engine Python
-* Google Study Practice Test - Big Query Study
-* Google Study Practice Test - Cloud SQL Study
 * Architecting with Google Cloud Platform Specialization
 * Essential Cloud Infrastructure: Core Services
 * Reliable Cloud Infrastructure: Design and Process
