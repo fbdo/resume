@@ -1,0 +1,33 @@
+= Fabio Oliveira
+
+:showtitle!:
+:address: Situlistraße 65  • 80939 • München • Germany
+:phone: +49 174 304 11 68
+:email: fabio.braga@gmail.com
+:linkedin: http://br.linkedin.com/in/fabiobragaoliveira
+:xing: https://www.xing.com/profile/Fabio_Oliveira9
+
+[.text-right]
+{phone} +
+{email} +
+{address}
+
+Dear Sir or Madam,
+
+I read the opportunity description for Enterprise IT Architect, published in the LinkedIn platform and in your website and I would like to apply as a candidate.
+
+I have being working in the IT industry for the last 15 years, the last 12 in leading positions as Technical Team Lead, Software Architect and ultimately as a Solution Architect, working for diverse markets as Finance, Telecom, Energy, Logistics and the Automotive sectors. I already faced high availability/high scale problems, modeled complex business rules in highly regulated domains, always helping teams to achieve the functional and non-functional business demands in a ever moving technical landscape, in companies as CI&T, BMW and Wirecard, where probably I will find yet many past colleagues. Nowadays my main responsibilities in a software project are:
+
+* Solution Design & Testing Strategies
+* Continuous Integration and Deployment automation
+* People & Technical Skills Development
+* Communication & Alignment
+* Project Plan & Roadmap
+* Risk Assessment & Management
+* Multi cloud, multi region, automation & deployment for Amazon Web Services or Google Cloud Platform 
+
+I received a bachelor's degree in Computer Science, a postgraduate degree in Project Management, and lately, because of my work and interest in cloud technologies and big data I received two relevant certifications, Google Cloud Certified Professional Architect and Google Professional Data Engineer.
+
+If the position is still available and you feel I may be a possible fit, please let me know. I am available to clarify any further questions.
+
+Yours faithfully, Fabio Oliveira.

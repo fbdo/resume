@@ -1,16 +1,13 @@
 = Fabio Oliveira
 
 :showtitle!:
-:company: Digital Loop GmbH
-:address: Steinsdorfstraße 2  • 80538 • München • Germany
+:address: Situlistraße 65  • 80538 • München • Germany
 :phone: +49 174 304 11 68
-:email: f.oliveira@digital-loop.com
+:email: fabio.braga@gmail.com
 :linkedin: http://br.linkedin.com/in/fabiobragaoliveira
 :xing: https://www.xing.com/profile/Fabio_Oliveira9
 
-_{company}_ +
 _{address}_ +
-
 [cols=".<20,.<80",frame=none,grid=none,width=100%,stripes=none]
 |===
 a|+Contacts+
@@ -19,30 +16,6 @@ Mobile: {phone} +
 Email: {email} +
 Linkedin: {linkedin} +
 XING: {xing} +
-
-a|+Objectives+
-a|To develop mission critical applications as a Cloud/Solution/Software Architect or Technical Leader,
-helping the team to automate, setup, design, implement, test and deploy projects, using the best
-practices in the market, as Agile Methodologies, Continuous Integration and Deployment, Test Driven
-Design, Domain Driven Design and Infrastructure as Code. A polyglot software engineer with more
-than 15 years of experience in the field, working for diverse markets as Finance, Telecom, Energy
-and Logistic, I am always prepared to face high availability/high scale problems or to model complex
-business rules.
-
-a|+Skills+
-a|Nowadays my main responsibilities in a software project are:
-
-* Development & Testing
-* Environment setup/automation & Continuous Integration and Deployment design
-* Technical Grooming & Solution Design
-* Coaching & Coding Guidance
-* People & Technical Skills Development
-* Architecture Definition, Validation & Evaluation
-* Non-Functional Requirements
-* Communication & Alignment
-* Project Plan & Roadmap
-* Risk Assessment & Management
-* Multi cloud modeling, automation & deployment for Amazon Web Services, Google Cloud Platform or Microsoft Azure providers
 
 
 a|+Experience+
