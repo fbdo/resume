@@ -138,19 +138,22 @@ Jan 1998 - Jun 2005
 
 a|+Courses & Certificates+
 a|### Amazon Web Services
-* AWS Certified Solution Architect - Associate (in progress)
+* AWS Certified Solution Architect - Associate
+
+image:https://ci4.googleusercontent.com/proxy/WgIEAO5I01Leks09EyXk_ZFIt3pOaX-Hv2-KYoW3ozfusJct_L7ijeBfaPwB2z5QmzwpeNapKLQ-dYrwv2QuVN6r23Yvfg=s0-d-e1-ft#https://www.certmetrics.com/api/ob/image/amazon/c/1[link="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-04-18&ci=AWS00808647",width=100,height=100]
+
+> The AWS Certified Solutions Architect – Associate exam is intended for individuals with experience designing distributed applications and systems on the AWS platform.
 
 ### Google Cloud Platform
-* Certificates
-** Google Cloud Certified Professional Cloud Architect
+* Google Cloud Certified Professional Cloud Architect
 
-image:https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13274845[link="https://www.credential.net/rhu9np9o"]
+image:https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13274845[link="https://www.credential.net/rhu9np9o",width=100,height=100]
 
 > A Google Cloud Certified - Professional Cloud Architect enables organizations to leverage Google Cloud technologies. Through an understanding of cloud architecture and Google technology, this individual can design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
 
-** Google Professional Data Engineer
+* Google Professional Data Engineer
 
-image:https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13695794[link="https://www.credential.net/a2bnu44y"]
+image:https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/13695794[link="https://www.credential.net/a2bnu44y",width=100,height=100]
 
 > A Professional Data Engineer enables data-driven decision making by collecting, transforming, and publishing data. A data engineer should be able to design build, operationalize, secure, and monitor data processing systems with a particular emphasis on security and compliance; scalability and efficiency; reliability and fidelity; and flexibility and portability. A data engineer should also be able to leverage, deploy, and continuously train pre-existing machine learning models.
 
