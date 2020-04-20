@@ -219,5 +219,5 @@ a|
 * Portuguese(native)
 * English(advanced)
 * Spanish(advanced)
-* German(intermediate)
+* German(beginner)
 |===
